@@ -59,7 +59,6 @@ Integrates TraceDS directly into **LeetCode** for instant visualization.
 
 ## 📬 Let's Connect
 - Email: **kalwadtanish@gmail.com**
-- LinkedIn: [Tanish's LinkedIn](www.linkedin.com/in/tanish-kalwad-56434235b/)
 
 <!--
 **kalwad/kalwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
