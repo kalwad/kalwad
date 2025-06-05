@@ -18,7 +18,17 @@ A full-stack **visual debugger** for data structures and algorithms.
 
 ---
 
-### 🌱 [Ecological Resource Aggregator]
+### ⚡ [Power Outage Cause Prediction](https://kalwad.github.io/power-outage-analysis/)
+A data science project using ML to predict causes of U.S. power outages (2000–2016).
+
+- 📈 Models: Logistic Regression and Random Forest
+- 📊 85% accuracy on tuned RF, strong performance for major causes
+- 🔍 Features include demand loss, region, hurricane flags
+- 🖥️ [Live Dashboard](https://kalwad.github.io/power-outage-analysis/)
+
+---
+
+### 🌱 Ecological Resource Aggregator
 A **climate research retrieval tool** powered by knowledge graphs and LLM query rewriting.
 
 - ⚡ Retrieves ecological papers from the CORE API
@@ -34,16 +44,6 @@ Integrates TraceDS directly into **LeetCode** for instant visualization.
 - Adds “Visualize in TraceDS” button next to “Run Code”
 - Flattens Python `class Solution` into executable function
 - Injects sample test cases automatically (when possible)
-
----
-
-### ⚡ [Power Outage Cause Prediction](https://kalwad.github.io/power-outage-analysis/)
-A data science project using ML to predict causes of U.S. power outages (2000–2016).
-
-- 📈 Models: Logistic Regression and Random Forest
-- 📊 85% accuracy on tuned RF, strong performance for major causes
-- 🔍 Features include demand loss, region, hurricane flags
-- 🖥️ [Live Dashboard](https://kalwad.github.io/power-outage-analysis/)
 
 ---
 
