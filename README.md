@@ -28,7 +28,7 @@ A data science project using ML to predict causes of U.S. power outages (2000–
 
 ---
 
-### 🌱 Ecological Resource Aggregator
+### 🌱 [Ecological Resource Aggregator](https://github.com/kalwad/ecologoical-resource-aggregator)
 A **climate research retrieval tool** powered by knowledge graphs and LLM query rewriting.
 
 - ⚡ Retrieves ecological papers from the CORE API
@@ -38,7 +38,7 @@ A **climate research retrieval tool** powered by knowledge graphs and LLM query 
 
 ---
 
-### 🧩 [TraceDS for LeetCode – Chrome Extension](https://github.com/kalwadtanish/leetcode-traceds-extension)
+### 🧩 [TraceDS for LeetCode – Chrome Extension](https://github.com/kalwad/TraceDS-Chrome-Extension)
 Integrates TraceDS directly into **LeetCode** for instant visualization.
 
 - Adds “Visualize in TraceDS” button next to “Run Code”
