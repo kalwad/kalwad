@@ -1,6 +1,6 @@
 ## Hi, I'm Tanish Kalwad
 
-I'm a Data Science Engineering student passionate about building tools that make complex systems easier to understand. Whether it's visualizing algorithms, interpreting climate research, or deploying ML models, I love bringing ideas to life through code.
+I'm an engineering student passionate about building tools that make complex systems easier to understand. Whether it's visualizing algorithms, interpreting climate research, or deploying ML models, I love bringing ideas to life through code.
 
 ---
 
