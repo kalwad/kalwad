@@ -1,76 +1,75 @@
 ## Hi, I'm Tanish Kalwad
 
-I'm an engineering student passionate about building tools that make complex systems easier to understand. Whether it's visualizing algorithms, interpreting climate research, or deploying ML models, I love bringing ideas to life through code.
+I'm a University of Michigan Data Science new grad focused on building AI-powered developer tools, retrieval systems, and full-stack data products. I like turning complex systems into interfaces that are easier to debug, understand, and trust.
+
+Portfolio: [tanishkalwad.com](https://www.tanishkalwad.com)
 
 ---
 
-## 🛠️ Projects
+## Projects
 
-### 🔍 [TraceDS](https://traceds-frontend.onrender.com/)
-A full-stack **visual debugger** for data structures and algorithms.
+### TraceDS
+A full-stack AI-powered visual debugger for Python data structures and algorithms.
 
-- 📊 Visualizes arrays, linked lists, trees (BST, AVL, RBT), and hash maps
-- ⏱ Step-by-step execution tracing + Big-O complexity estimator
-- 🌗 Light/dark mode, algorithm templates, and live code editor
-- ⚙️ Built with React, Flask, and Python AST instrumentation
+- Visualizes arrays, linked lists, trees, hash maps, local variables, and execution state
+- Supports step-by-step tracing, playback controls, live code editing, and algorithm templates
+- Adds AI-generated Big-O analysis with code-specific reasoning
+- Includes a draggable Smart AI Tutor that explains trace steps and answers follow-up questions
+- Built with React, Flask, Monaco Editor, Framer Motion, and Python tracing instrumentation
 
-➡️ [Live Demo](https://traceds-frontend.onrender.com)
-
----
-
-### ⚡ [Power Outage Cause Prediction](https://kalwad.github.io/power-outage-analysis/)
-A data science project using ML to predict causes of U.S. power outages (2000–2016).
-
-- 📈 Models: Logistic Regression and Random Forest
-- 📊 85% accuracy on tuned RF, strong performance for major causes
-- 🔍 Features include demand loss, region, hurricane flags
-- 🖥️ [Live Dashboard](https://kalwad.github.io/power-outage-analysis/)
+[Live Demo](https://www.tanishkalwad.com/#traceds) · [GitHub Repo](https://github.com/kalwad/TraceDSv2)
 
 ---
 
-### 🌱 [Ecological Resource Aggregator](https://github.com/kalwad/ecologoical-resource-aggregator)
-A **climate research retrieval tool** powered by knowledge graphs and LLM query rewriting.
+### Ecological Resource Aggregator / ClimaChat
+An AI-powered climate research assistant that combines information retrieval with source-backed answer generation.
 
-- ⚡ Retrieves ecological papers from the CORE API
-- 🔁 Rewrites queries for improved semantic match using transformers
-- 🧠 Constructs Neo4j knowledge graphs for fast, relevant lookup
-- 🧰 Uses PyTorch, Neo4j, NetworkX, rouge-score
+- Classifies science and climate questions before retrieval
+- Rewrites queries for scholarly paper search and source ranking
+- Shows research-paper matches alongside conversational answers
+- Uses an AI answer layer to synthesize credible, grounded responses
+- Original research direction includes knowledge graphs, ecological documents, and climate-focused retrieval
 
----
-
-### 🧩 [TraceDS for LeetCode – Chrome Extension](https://github.com/kalwad/TraceDS-Chrome-Extension)
-Integrates TraceDS directly into **LeetCode** for instant visualization.
-
-- Adds “Visualize in TraceDS” button next to “Run Code”
-- Flattens Python `class Solution` into executable function
-- Injects sample test cases automatically (when possible)
+[Live Demo](https://www.tanishkalwad.com/#climachat) · [GitHub Repo](https://github.com/kalwad/ecological-resources-aggregator)
 
 ---
 
-## 📚 Skills & Tech
+### Power Outage Cause Prediction
+A data science project using machine learning to predict causes of U.S. power outages from 2000-2016.
 
-**Languages:** Python, JavaScript, SQL, C  
-**Frameworks:** Flask, React, scikit-learn  
-**Libraries:** pandas, PyTorch, NetworkX, Hugging Face  
-**Tools:** GitHub, Docker, Neo4j, VSCode  
-**Domains:** Data Structures, NLP, Information Retrieval, Visualization
+- Built an ML pipeline for outage-cause classification
+- Achieved about 85% accuracy using engineered features and Random Forest classifiers
+- Explored features such as demand loss, region, climate conditions, and event context
+- Presented results through Plotly dashboards and exploratory visualizations
+
+[Live Dashboard](https://kalwad.github.io/power-outage-analysis/)
 
 ---
 
-## 📬 Let's Connect
-- Email: **kalwadtanish@gmail.com**
+### TraceDS for LeetCode - Chrome Extension
+A Chrome extension concept that connects LeetCode workflows to TraceDS-style visualization.
 
-<!--
-**kalwad/kalwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Adds a "Visualize in TraceDS" action near the LeetCode run workflow
+- Converts Python `class Solution` submissions into executable trace inputs
+- Injects sample test cases when possible for faster algorithm visualization
 
-Here are some ideas to get you started:
+[GitHub Repo](https://github.com/kalwad/TraceDS-Chrome-Extension)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills & Tech
+
+**Languages:** Python, JavaScript, SQL, C, C++  
+**Frontend:** React, Vite, HTML, CSS, Monaco Editor, Framer Motion  
+**Backend:** Flask, REST APIs, Python tracing, serverless API routes  
+**Machine Learning:** PyTorch, scikit-learn, pandas, NumPy, Random Forests  
+**Data & Retrieval:** Neo4j, information retrieval, knowledge graphs, Plotly, Hugging Face  
+**Domains:** Data structures, AI tooling, visualization, climate research, technical analysis
+
+---
+
+## Let's Connect
+
+- Email: **kalwad@umich.edu**
+- Portfolio: [tanishkalwad.com](https://www.tanishkalwad.com)
+- LinkedIn: [tanish-kalwad](https://www.linkedin.com/in/tanish-kalwad-56434235b/)
